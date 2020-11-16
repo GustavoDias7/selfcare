@@ -12,8 +12,7 @@ Este foi o desafio de criar a loja virtual <a href="https://github.com/thaysagom
 ___
 
 ## Demo
-//url
-Acesse a <a href="">demonstração</a> do site.
+Acesse a <a href="https://gustavodias7.github.io/selfcare/">demonstração</a> do site.
 ___
 
 ## Techs
@@ -23,7 +22,7 @@ ___
 
 ## Download
 ```bash
-$ git clone //url
+$ git clone https://github.com/GustavoDias7/selfcare.git
 $ cd selfcare
 $ start index.html
 ```
