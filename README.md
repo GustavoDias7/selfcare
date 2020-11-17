@@ -1,7 +1,7 @@
 <br />
 <p align="center">
  
-   <img src="https://ibb.co/MnrvnrX" alt="gif-selfcare" border="0" width="600">
+   <img src="https://ik.imagekit.io/lprg6un6ob/gif-selfcare_y42iInKOg.gif" alt="gif-selfcare" border="0" width="600">
 
   <h1 align="center">Selfcare</h1>
 
